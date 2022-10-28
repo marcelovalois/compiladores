@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
-public class Task2
+class Task2
 {
 	public static void main(String[] args) throws IOException {
         Stack <String> rpn = new Stack <String> ();
